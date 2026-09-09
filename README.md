@@ -22,7 +22,6 @@ I build digital products that **run in production with real users**: platforms s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9A%A0%EF%B8%8F_edit_URL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-%40luizfelipeah-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizfelipeah)
 [![Gmail](https://img.shields.io/badge/Gmail-andrich.luiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrich.luiz@gmail.com)
 [![Website](https://img.shields.io/badge/Website-luizfelipe.dev.br-00F2FE?style=for-the-badge&logoColor=black)](https://luizfelipe.dev.br/)
