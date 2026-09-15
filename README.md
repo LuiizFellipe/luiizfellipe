@@ -1,4 +1,3 @@
-
 ## About me
 
 I'm an **AI engineer and fullstack developer** — a solution architect, not a code typist.
@@ -7,6 +6,26 @@ I build digital products that **run in production with real users**: platforms s
 - 🔭 **Now:** applied AI engineering — LLM agents, real-time transcription and N8n automations
 - 🚀 **Solution architect** at **W Check Brasil** — Brazil's largest vehicle lookup and credit analysis platform, with **13k+ clients**
 - ⚡ **Philosophy:** the right tool for every problem — logic, performance and UX first
+
+## 🔓 Open source
+
+<div align="center">
+
+### 📖 [MarkRead](https://github.com/LuiizFellipe/markread)
+
+**A clean, fast desktop Markdown reader for Linux, macOS & Windows** — built with Tauri v2.
+
+GitHub-style rendering · outline sidebar with scroll-spy · in-page search · light/dark themes · EN / PT-BR / ES UI
+
+`Tauri v2` · `Rust` · `TypeScript` · `MIT`
+
+[![Platform](https://img.shields.io/badge/OS-Linux_·_macOS_·_Windows-8A2BE2?style=for-the-badge)](https://github.com/LuiizFellipe/markread/releases)
+[![Stars](https://img.shields.io/github/stars/LuiizFellipe/markread?style=for-the-badge&color=F0B429)](https://github.com/LuiizFellipe/markread/stargazers)
+[![License](https://img.shields.io/github/license/LuiizFellipe/markread?style=for-the-badge&color=00C896)](https://github.com/LuiizFellipe/markread/blob/main/LICENSE)
+
+[![MarkRead](https://github-readme-stats.vercel.app/api/pin/?username=LuiizFellipe&repo=markread&theme=radical)](https://github.com/LuiizFellipe/markread)
+
+</div>
 
 ## Featured projects
 
