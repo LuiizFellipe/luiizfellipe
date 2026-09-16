@@ -23,7 +23,6 @@ GitHub-style rendering · outline sidebar with scroll-spy · in-page search · l
 [![Stars](https://img.shields.io/github/stars/LuiizFellipe/markread?style=for-the-badge&color=F0B429)](https://github.com/LuiizFellipe/markread/stargazers)
 [![License](https://img.shields.io/github/license/LuiizFellipe/markread?style=for-the-badge&color=00C896)](https://github.com/LuiizFellipe/markread/blob/main/LICENSE)
 
-[![MarkRead](https://github-readme-stats.vercel.app/api/pin/?username=LuiizFellipe&repo=markread&theme=radical)](https://github.com/LuiizFellipe/markread)
 
 </div>
 
